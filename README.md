@@ -1,3 +1,3 @@
-a test for pushing with git
+branch test2 only!!0602
 
 ADD BY VIM
